@@ -15,7 +15,6 @@
   "disk_cleanup": false,
   "hmbird": false,
   "susfs": true,
-  "ksun": true,
   "opt": true,
   "ds": true,
   "bbg": true,
